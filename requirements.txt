@@ -1,0 +1,25 @@
+# Core Libraries
+numpy
+pandas
+polars
+scipy
+matplotlib
+seaborn
+
+# Machine Learning & Forecasting
+scikit-learn
+xgboost
+lightgbm
+statsmodels
+prophet
+tensorflow
+torch
+
+# Jupyter & Notebook Support
+jupyter
+ipykernel
+notebook
+
+# Utilities & Performance
+tqdm
+joblib
